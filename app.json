@@ -1,0 +1,32 @@
+{
+    "expo": {
+        "name": "tuneX",
+        "slug": "tuneX",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./app/assets/icon2.png",
+        "splash": {
+            "image": "./app/assets/splashScreen.png",
+            "resizeMode": "cover",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./app/assets/icon2.png",
+                "backgroundColor": "#FFFFFF"
+            },
+            "package": "com.addy16.tuneX",
+            "versionCode": 1
+        },
+        "web": {
+            "favicon": "./app/assets/favicon.png"
+        }
+    }
+}
