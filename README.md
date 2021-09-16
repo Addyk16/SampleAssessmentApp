@@ -9,6 +9,6 @@
 - Wait for the process to complete.
 - Meanwhile Install Expo client app in your mobile device for testing.
 - Run command
-   - expo go
+   - expo start
 - This will start a metro bundler.
 - Scan the QR code using Expo app to launch the app in your mobile device.
