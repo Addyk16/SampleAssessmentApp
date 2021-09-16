@@ -1,6 +1,6 @@
 # SampleAssessmentApp
 
-##To Download the code:
+## To Download the code:
 - Make sure you have node installed in your device.
 - Clone the repository:
   - git clone https://github.com/Addyk16/SampleAssessmentApp.git
