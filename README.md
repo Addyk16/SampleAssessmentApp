@@ -1,9 +1,9 @@
-# SampleAssessmentApp
+# SampleMusicApp
 
 ## To Download the code:
 - Make sure you have node installed in your device.
 - Clone the repository:
-  - git clone https://github.com/Addyk16/SampleAssessmentApp.git
+  - git clone https://github.com/Addyk16/SampleMusicApp.git
 - Run command
   - npm install
 - Wait for the process to complete.
